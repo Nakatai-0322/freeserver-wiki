@@ -23,6 +23,7 @@ sidebar: true
 | 公共農場 | gray27 | FR東西線中心町駅付近 | [-338, -4](https://bluemap.freeserver.pro/#world:-339:3:9:59:2.03:0.74:0:0:perspective) | |
 | 公共農場 | k0ha | スポーン南 | [-255, 92](https://bluemap.freeserver.pro/#world:-254:64:89:17:-0.67:0.95:0:0:perspective) | 建物2階が農地 |
 | 公共農場 | gray27 | 新スポーン | [1540, 2295](https://bluemap.freeserver.pro/#world:1547:3:2300:26:-0.3:0:0:0:perspective) | |
+| 公共農場 | gray27 | 永田本町 | [-750,-2050](https://bluemap.freeserver.pro/#world:-749:76:-2058:39:-0.69:0.59:0:0:perspective) | |
 
 ### ジャガイモ
 <item-sprite name="potato" :scale="1" />

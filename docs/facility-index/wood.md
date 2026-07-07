@@ -19,7 +19,7 @@ sidebar: true
 ### オーク（樫）
 - 新スポーン北西角
 - 新スポーン南方 [1560,2610](https://bluemap.freeserver.pro/#world:1555:64:2623:59:2.19:0.53:0:0:perspective)
-- 永田南町 [-775,-2070](https://bluemap.freeserver.pro/#world:-777:66:-2061:39:0.82:0.41:0:0:perspective)
+- 永田本町 [-775,-2070](https://bluemap.freeserver.pro/#world:-777:66:-2061:39:0.82:0.41:0:0:perspective)
 ### 白樺
 - 新スポーン北西角
 - 新スポーン南方 [1560,2610](https://bluemap.freeserver.pro/#world:1555:64:2623:59:2.19:0.53:0:0:perspective)
